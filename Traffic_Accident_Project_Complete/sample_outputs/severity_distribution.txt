@@ -1,0 +1,5 @@
+Severity Distribution:
+2    3
+3    1
+4    1
+Name: Severity, dtype: int64

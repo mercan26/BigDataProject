@@ -1,0 +1,7 @@
+Accidents by State:
+CA    1
+TX    1
+FL    1
+NY    1
+PA    1
+Name: State, dtype: int64
