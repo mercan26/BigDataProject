@@ -1,6 +1,0 @@
-ID  | Severity | State | Weather_Condition
-1   |    2     | CA    | Clear
-2   |    3     | TX    | Rain
-3   |    2     | FL    | Fog
-4   |    4     | NY    | Snow
-5   |    2     | PA    | Cloudy
